@@ -4,7 +4,7 @@
 
 - 👨‍💻 İşte projelerim: [https://caglaryml.com.tr](https://caglaryml.com.tr) / [https://haylazoyuncu.com](https://haylazoyuncu.com) / [https://ho-studios.com.tr](https://ho-studios.com.tr) / ....
 
-- 📫 Bana ulaşabileceğiniz adres: mailto:**hello@caglaryml.com.tr**
+- 📫 Bana ulaşabileceğiniz adres: **hello@caglaryml.com.tr**
 
 <h3 align="left">İlgilendiğim diller;</h3>
 <p align="left">
