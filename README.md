@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Çağlar (CaglarYml) Efe!</h1>
+Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer developer olarak hayatımı sürdürmekteyim. Minecraft ve Skript alanında belli bir seviyenin üstünde olmama rağmen hala kendimi farklı dillerde geliştirmekteyim. [Devamını gör...](https://caglaryml.com.tr)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caglaryml&label=Profile%20views&color=2edcb9&style=flat" alt="caglaryml" /> </p>
 
 - 👨‍💻 İşte projelerim: [https://caglaryml.com.tr](https://caglaryml.com.tr) / [https://haylazoyuncu.com](https://haylazoyuncu.com) / [https://ho-studios.com.tr](https://ho-studios.com.tr) / ....
 
@@ -21,3 +21,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
     </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caglaryml&label=Profile%20views&color=2edcb9&style=flat" alt="caglaryml" /> </p>
