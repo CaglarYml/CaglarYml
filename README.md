@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Çağlar (CaglarYml) Efe!</h1>
-Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer developer olarak hayatımı sürdürmekteyim. Minecraft ve Skript alanında belli bir seviyenin üstünde olmama rağmen hala kendimi farklı dillerde geliştirmekteyim. <a href="https://www.python.com">Devamını gör... </a>
+Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer developer olarak hayatımı sürdürmekteyim. Minecraft ve Skript alanında belli bir seviyenin üstünde olmama rağmen hala kendimi farklı dillerde geliştirmekteyim. <a href="https://caglaryml.com.tr">Devamını gör... </a>
 
 
 - 👨‍💻 İşte projelerim: [https://caglaryml.com.tr](https://caglaryml.com.tr) / [https://haylazoyuncu.com](https://haylazoyuncu.com) / [https://ho-studios.com.tr](https://ho-studios.com.tr) / ....
