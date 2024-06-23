@@ -21,4 +21,8 @@ Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer de
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
     </a>
 </p>
+<h3 align="left">Discord</h3>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/815915289321144342?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Birşeyler%20yapıyor%20işte...)](https://discord.com/users/815915289321144342)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caglaryml&label=Profile%20views&color=2edcb9&style=flat" alt="caglaryml" /> </p>
