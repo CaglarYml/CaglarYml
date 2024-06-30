@@ -20,6 +20,12 @@ Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer de
       <a href="https://www.yaml.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
     </a>
+      <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    </a>
+      <a href="https://skripthub.net" target="_blank">
+        <img src="https://skripthub.net/static/svg/SkriptHubLogoWhite.svg" alt="Skript" width="40" height="40"/>
+    </a>
 </p>
 <h3 align="left">Discord</h3>
 
