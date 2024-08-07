@@ -29,6 +29,6 @@ Ben CaglarYml, 17 yaşında bir öğrenciyim. Hem öğrenci hem de Freelancer de
 </p>
 <h3 align="left">Discord</h3>
 
-[![Discord Presence](https://discord.c99.nl/widget/theme-1/815915289321144342.png)](https://discord.com/users/815915289321144342)
+<img align='right' src="https://discord.c99.nl/widget/theme-1/749999019480055939.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caglaryml&label=Profile%20views&color=2edcb9&style=flat" alt="caglaryml" /> </p>
